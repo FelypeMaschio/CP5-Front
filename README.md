@@ -4,16 +4,15 @@ Este projeto implementa um sistema de registo de funcionários para o Hospital d
 
 ## Membros da Equipe
 
-- **Nome:** [Seu Nome]
-  - **RM:** [Seu RM]
-- **Nome:** [Nome do Colega 1]
-  - **RM:** [RM do Colega 1]
-- **Nome:** [Nome do Colega 2]
-  - **RM:** [RM do Colega 2]
+- **Nome:** Felype Ferreira Maschio
+  - **RM:** 563009
+- **Nome:** Fellipe Costa de Oliveira
+  - **RM:** 567673
+
 
 ## Repositório GitHub
 
-[Link para o Repositório GitHub](https://github.com/seu-usuario/hc-fmusp-employee-registry)
+https://github.com/FelypeMaschio/CP5-Front.git
 
 ## Tecnologias Utilizadas
 
