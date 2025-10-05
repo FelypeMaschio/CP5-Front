@@ -1,5 +1,5 @@
 {
-  "Funcionarios": [
+  "funcionarios": [
     {
       "id": 1,
       "nome": "Maria Silva",
@@ -15,6 +15,30 @@
       "setor": "Clínica Médica",
       "turno": "Diurno",
       "salario": 15000
+    },
+    {
+      "id": 3,
+      "nome": "Ana Costa",
+      "cargo": "Técnica em Enfermagem",
+      "setor": "Emergência",
+      "turno": "Vespertino",
+      "salario": 4500
+    },
+    {
+      "id": 4,
+      "nome": "Carlos Santos",
+      "cargo": "Fisioterapeuta",
+      "setor": "Reabilitação",
+      "turno": "Diurno",
+      "salario": 6000
+    },
+    {
+      "id": 5,
+      "nome": "Fernanda Lima",
+      "cargo": "Nutricionista",
+      "setor": "Nutrição Clínica",
+      "turno": "Diurno",
+      "salario": 5500
     }
   ]
 }
